@@ -1,9 +1,10 @@
-# JavaScript Trip Planner
-## It's Time For Vacation!!
+# Trip Planner
+## JS: Prompt
+###### Remixed from the Flatiron School
 
 <img src="https://s3.amazonaws.com/after-school-assets/giphy.gif" align="right" width="300px" hpsace="10">
 
-Your job is to build a trip-planner website using both the `alert` and `prompt` functions in JavaScript. You will be coding your solution in `js/planner.js`. You'll want to have `index.html` open in the browser to test your work.
+Your job is to build a trip-planner website using both the `alert` and `prompt` functions in JavaScript. You will be coding your solution in a javascript editor such as [jsbin.com/?js,console](http://jsbin.com/?js,console)
 
 You'll be using the `prompt` function to take in input from your user, and `alert` to relay information back to the user. 
 
@@ -24,16 +25,22 @@ Now that we have the data from the user stored in the variable `name`, we can us
 ```
 name
 age
-trip_destination
-number_of_travelers
-type_of_trip (relaxing, adventure, etc)
+tripDestination
+numberOfTravelers
+typeOfTrip (relaxing, adventure, etc)
 ```
-+ **Step 2:** Once you have all the information you need, your job is to print out a sentence describing the user's vacation wishes and a promise to find them the best possible trip.
++ **Step 2:** Once you have all the information you need, your job is to alert the user with a sentence describing the user's vacation wishes and a promise to find them the best possible trip.
 
-+ **BONUS:** Once the user enters what find of trip they want, see if you can figure out how to make suggestions based on what type of trip (ie: suggest a beach vacation for a relaxing trip, or hiking Machu Pichu for an adventure trip).
+---
 
+### BONUS 1:
 
++ Let's assume the cost for each traveler will be $500.  Modify the alert to include the total cost for all of the travelers.
 
+### BONUS 2:
 
++ Uh-oh! The computer has a cold :( That means `n` sounds like `d`, and `m` sounds like `b`.  For example, saying _I have a nice mom_ with a cold actually sounds like _I have a dice bob_.  Use `replace` in your alert to respond with a cold.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-trip-planner' title='JavaScript Trip Planner'>JavaScript Trip Planner</a> on Learn.co and start learning to code for free.</p>
+### BONUS 3:
+
++ Once the user enters what kind of trip they want, see if you can figure out how to make suggestions based on what type of trip (ie: suggest a beach vacation for a relaxing trip, or hiking Machu Pichu for an adventure trip).
