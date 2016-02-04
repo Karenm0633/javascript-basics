@@ -4,7 +4,7 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/giphy.gif" align="right" width="300px" hpsace="10">
 
-Your job is to build a trip-planner website using both the `alert` and `prompt` functions in JavaScript. You will be coding your solution in a javascript editor such as [jsbin.com/?js,console](http://jsbin.com/?js,console)
+Your job is to build a trip-planner website using both the `alert` and `prompt` functions in JavaScript. You will be coding your solution in a javascript editor such as <a href="http://jsbin.com/?js,console" target="_blank">jsbin.com/?js,console</a>
 
 You'll be using the `prompt` function to take in input from your user, and `alert` to relay information back to the user. 
 
