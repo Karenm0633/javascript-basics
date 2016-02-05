@@ -69,10 +69,8 @@ Here is a list of all the Logical Operators and what they do:
 
 <img src="https://raw.githubusercontent.com/learn-co-curriculum/cssi-2.5-conditional-statements/master/js-logical-operators.png">
 
-# Student Challenges
 
-### Task 1  
-**Skee-ball Rater**
+# Skee-ball Rater
 
 ![Skee-ball](http://robertkaplinsky.com/wp-content/uploads/2013/03/skeeball_cover.jpg)
 
@@ -84,15 +82,6 @@ If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A sco
 
 Be creative with the messages you write!
 
-### Task 2  
-**Mini-Challenges**
-
-1. Write a JavaScript program that accepts two integers and displays the larger one.
-2. Write a JavaScript conditional statement to find the sign of product of three numbers. Display an alert box with the specified sign.
-+ Sample numbers : 3, -7, 2
-+ Output : The sign is - 
-
-3. Write a JavaScript conditional statement to sort three numbers. Display an alert box to show the result. Go to the editor 
 + Sample numbers : 0, -1, 4
 + Output : 4, 0, -1 
 
