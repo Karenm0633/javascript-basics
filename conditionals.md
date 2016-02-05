@@ -81,12 +81,3 @@ Create a conditional statement that uses `alert()` to show the rating of a Skee-
 If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A score of 150-250 is decent. A score of 250-350 is good. A score between 350-450 is great. A score above 450 is amazing!!!
 
 Be creative with the messages you write!
-
-+ Sample numbers : 0, -1, 4
-+ Output : 4, 0, -1 
-
-4. Write a JavaScript conditional statement to find the largest of five numbers. Display an alert box to show the result. Go to the editor 
-+ Sample numbers : -5, -2, -6, 0, -1
-+ Output : 0 
-
-5. Write your own mini-challenge!
