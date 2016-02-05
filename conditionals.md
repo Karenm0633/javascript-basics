@@ -1,6 +1,6 @@
 # JavaScript Basics
 ## Conditional Statements
-###### Remixed from the Flatiron School
+###### Remixed from the Flatiron School: CSSI Curriculum
 ---
 
 # What You Will Learn:
@@ -99,10 +99,3 @@ Be creative with the messages you write!
 + Output : 0 
 
 5. Write your own mini-challenge!
-
-### Task 3  
-**Tutoring**
-###### Tutoring is available on Tuesdays and Thursdays to students who need extra help
-+ Ask the user what day of the week it is
-+ Ask the user if they need extra help
-+ Using the correct logic, alert them if they need to go to tutoring
