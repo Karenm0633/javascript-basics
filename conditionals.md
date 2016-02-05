@@ -76,6 +76,8 @@ Here is a list of all the Logical Operators and what they do:
 
 ![Skee-ball](http://robertkaplinsky.com/wp-content/uploads/2013/03/skeeball_cover.jpg)
 
+Prompt the user for their Skee-ball score.
+
 Create a conditional statement that uses `alert()` to show the rating of a Skee-ball player based on their score.
 
 If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A score of 150-250 is decent. A score of 250-350 is good. A score between 350-450 is great. A score above 450 is amazing!!!
