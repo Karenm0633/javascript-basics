@@ -29,18 +29,12 @@ tripDestination
 numberOfTravelers
 typeOfTrip (relaxing, adventure, etc)
 ```
-+ **Step 2:** Once you have all the information you need, your job is to alert the user with a sentence describing the user's vacation wishes and a promise to find them the best possible trip.
-
----
++ **Step 2:** Once you have all the information you need, your job is to alert the user with a sentence describing the user's vacation wishes and a promise to find them the best possible trip. Assuming the cost for each traveler will be $500, the alert should include the total cost for all of the travelers.
 
 ### BONUS 1:
 
-+ Let's assume the cost for each traveler will be $500.  Modify the alert to include the total cost for all of the travelers.
++ Uh-oh! The computer has a cold :( That means `n` sounds like `d`, and `m` sounds like `b`.  For example, saying _I have a nice mom_ with a cold actually sounds like _I have a dice bob_.  Use `replace` in your alert to respond with a cold.
 
 ### BONUS 2:
 
-+ Uh-oh! The computer has a cold :( That means `n` sounds like `d`, and `m` sounds like `b`.  For example, saying _I have a nice mom_ with a cold actually sounds like _I have a dice bob_.  Use `replace` in your alert to respond with a cold.
-
-### BONUS 3:
-
-+ Once the user enters what kind of trip they want, see if you can figure out how to make suggestions based on what type of trip (ie: suggest a beach vacation for a relaxing trip, or hiking Machu Pichu for an adventure trip).
++ Once the user enters what kind of trip they want, see if you can figure out how to make suggestions based on what type of trip (ie: suggest a beach vacation for a relaxing trip, or hiking Machu Pichu for an adventure trip).  HINT: this requires conditionals.
