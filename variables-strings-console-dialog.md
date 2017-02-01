@@ -93,9 +93,9 @@ false + "100"
 
 ### String Methods:
 + So we've learned that we can add strings together - what else can we do with strings?
-+ A method is prewritten set of instructions that our computer knows hows how to listen to and obey. 
++ A method is prewritten set of instructions that our computer knows how to listen to and obey. 
 + We use methods that JavaScript gives us to manipulate and modify strings.
-+ String methods can be called on a string to modify the string in some way. Usually you can figure out what a method is doing to do just based on its name. Some examples:
++ String methods can be called on a string to modify the string in some way. Usually you can figure out what a method is going to do just based on its name. Some examples:
 ```js
 //toUpperCase
 	"Foobar”.toUpperCase(); //returns "FOOBAR"
