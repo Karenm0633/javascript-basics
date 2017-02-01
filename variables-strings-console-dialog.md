@@ -28,7 +28,7 @@ typeof 'Yumm'; //reports type of string
 + You need to declare variables explicitly in JavaScript with the `var` keyword like this:
 	+ `var x;` 
 	+ `var` is a keyword that declares a variable
-+ Naming variables: start with letter a-z A-Z remaining 0-9 a-z A-Z, you can also use `_ `never use spaces ' ' or or illegal characters (! % ?)
++ Naming variables: start with letter a-z A-Z remaining 0-9 a-z A-Z, you can also use `_ `never use spaces ' ' or illegal characters (! % ?)
 + For variable names consisting of multiple words you should use camelCase or snake_case (camelCase is generally what JS developers use by convention and is called that becauseTheLettersMakeHumpsInTheName)
 + Let's assign a value in x (remember we said var x; previously)
 	+ `x = 10;`
