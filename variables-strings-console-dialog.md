@@ -1,5 +1,5 @@
 # JavaScript Basics
-## Variables and Strings
+## Variables, Strings, Console, Dialog Boxes
 ###### Remixed from the Flatiron School
 ---
 ### JavaScript data types
@@ -117,7 +117,7 @@ false + "100"
 ---
 
 ### Data Type Conversion
-+ We already saw the weird things that happen when we try to add different datatypes together. There might be instances where 
++ We already saw the weird things that happen when we try to add different datatypes together. If you need to change an integer that is technically a string, you can use `parseInt` to change it.  For example:
 + `parseInt` changes a string to a whole number.
 	```js
 		combineStuff = parseInt('10') + 5;
@@ -135,7 +135,7 @@ false + "100"
 	```
 + `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
 
-### Dialog Boxes and JS Console
+### JS Console and Dialog Boxes
 + alerts (Outputs a string)
 	+ `alert('warning do not attempt to cook food using this website!');`
 + confirm (Boolean values)
