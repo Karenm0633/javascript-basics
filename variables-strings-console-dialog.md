@@ -108,7 +108,7 @@ false + "100"
 	"character".charAt(1); // returns "h"
 	"character".charAt(7); // returns "e"
 //length
-	"character".length; // returns 8
+	"character".length; // returns 9
 ```
 + Method Chaining is also possible with the output of one statement feeds into the next one.
 	+ `"Foobar".replace(/o/g, "x").toUpperCase(); //returns "FXXBAR"`
