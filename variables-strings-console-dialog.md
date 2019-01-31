@@ -98,7 +98,7 @@ false + "100"
 + String methods can be called on a string to modify the string in some way. Usually you can figure out what a method is going to do just based on its name. Some examples:
 ```js
 //toUpperCase
-	"Foobar”.toUpperCase(); //returns "FOOBAR"
+	"Foobar".toUpperCase(); //returns "FOOBAR"
 //toLowerCase
 	"Foobar".toLowerCase(); //returns "foobar"
 //replace
